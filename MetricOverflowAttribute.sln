@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrometheusSample", "src\WithoutOverflowAttribute\WithoutOverflowAttribute.csproj", "{96DDFF5B-F7F3-4838-960E-F69CB902D18C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrometheusSampleWithOverflow", "src\WithOverflowAttribute\WithOverflowAttribute.csproj", "{B3B52FF2-C18B-448A-A9F0-710A843DC551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96DDFF5B-F7F3-4838-960E-F69CB902D18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DDFF5B-F7F3-4838-960E-F69CB902D18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DDFF5B-F7F3-4838-960E-F69CB902D18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DDFF5B-F7F3-4838-960E-F69CB902D18C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B52FF2-C18B-448A-A9F0-710A843DC551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B52FF2-C18B-448A-A9F0-710A843DC551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B52FF2-C18B-448A-A9F0-710A843DC551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B52FF2-C18B-448A-A9F0-710A843DC551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51DB68E9-ECD3-4C79-9FC0-13292BEE12DF}
+	EndGlobalSection
+EndGlobal

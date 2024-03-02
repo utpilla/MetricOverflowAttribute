@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "LssZUcF9TF/abvQLKS15Z/vR+MaEL4PYg1ciYJ9yZr209fZS+Fe2lH1gqJSCTEX+pRuoGIdCE4/84X0t+PZVsQ==",
+  "success": true,
+  "projectFilePath": "C:\\MetricOverflowAttribute\\src\\WithOverflowAttribute\\WithOverflowAttribute.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\grpc.net.client\\2.52.0\\grpc.net.client.2.52.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\grpc.net.common\\2.52.0\\grpc.net.common.2.52.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\microsoft.extensions.logging.configuration\\8.0.0\\microsoft.extensions.logging.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\opentelemetry\\1.7.0\\opentelemetry.1.7.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\opentelemetry.api\\1.7.0\\opentelemetry.api.1.7.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\opentelemetry.api.providerbuilderextensions\\1.7.0\\opentelemetry.api.providerbuilderextensions.1.7.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\opentelemetry.exporter.opentelemetryprotocol\\1.7.0\\opentelemetry.exporter.opentelemetryprotocol.1.7.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\utpilla.REDMOND\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
